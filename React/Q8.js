@@ -9,8 +9,7 @@ class MyComponent extends React.Component {
   <div>
   <h1>Hello React!</h1>
   </div>
-      )
-  
+      )  
       // change code above this line
     }
   };
