@@ -7,3 +7,4 @@
 # React
 
 # Sass
+# Redux
