@@ -2,7 +2,7 @@
 
 ## Bootstrap
 
-# jQuery
+## jQuery
 
 # React
 
